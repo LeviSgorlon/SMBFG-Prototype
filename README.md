@@ -1,4 +1,4 @@
-<h1>SMBFG is a Smash brothers like prototype created in Unity 3D</h1><br> Player 3D model was especially made for the game in the span of 3 days by yours truly<br> Whole project was created in 2 days for fun.<br> <br>
+<h1>SMBFG is a Smash brothers like prototype created in Unity 3D</h1><br> Project was developed in 5 days for fun.<br> <br>
 
 
 ![Smash_Copy_USbwmRNrKp](https://github.com/LeviSgorlon/SMBFG-Prototype/assets/31070124/ea81da60-f92b-4ab1-bf71-3f7f25621249)
